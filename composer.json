@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "Hexlet project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kate2610k",
+            "email": "ekaterinakarpova2610@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.10"
+    }
+}
